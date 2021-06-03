@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentable sufferings of the church of God in Dorset-shire and the persecution there, whipping sufficient men of their own county as vagabonds, and how bruitish they behave themselves and unmanly, dishonouring their magistracy, and shaming their ministery ...</title>
+            <author>Curtis, Samuel.</author>
+         </titleStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20991</idno><idno type="EEBO-CITATION">18453157</idno>
+  <idno type="VID">206444</idno>
+  <idno type="EEBO-PROQUEST">2240863597</idno>
+  
+            <idno type="STC">Wing C7691</idno>
+            <idno type="OCLC">18453157</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206444)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1631:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentable sufferings of the church of God in Dorset-shire and the persecution there, whipping sufficient men of their own county as vagabonds, and how bruitish they behave themselves and unmanly, dishonouring their magistracy, and shaming their ministery ...</title>
+                  <author>Curtis, Samuel.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Curtis by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England.</term>
+               <term type="topical_term">Persecution --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206444:1"/>
+            <pb facs="tcp:206444:1"/>
+            <p>The Lamentable SUFFERINGS of the Church of GOD in <hi>DORSET-SHIRE.</hi>
+            </p>
+            <p>And the persecution there; Whipping sufficient men of their own County as vagabonds, and how bruit<g ref="char:EOLhyphen"/>ish they behave themselves and unmanly, dishonou<g ref="char:EOLhyphen"/>ing their Magistracy, and shaming their Ministery; How they have stocked, imprisoned, whipped, and sent away with passes the servants of the Lord God, and what havock they have made of the Church of God; acting without the fear of God, and as men regarding neither God nor man, and as though they had never heard talk of God, Christ, Prophets nor Apostles, nor scriptures, as though they never had read their examples of such as turned against the Just, and were the persecutors; But the wicked<g ref="char:EOLhyphen"/>ness of the wicked shal <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y themselves, and the Lord is the reward of the Just, and the protector of the Innocent, and carries his Lambs in his armes, and Rebukes the adversaries, yea Kings, for the Annoin<g ref="char:EOLhyphen"/>ted-Elects sake; Therefore let your doings and vio<g ref="char:EOLhyphen"/>lence be so no more, least the Lord make you ex<g ref="char:EOLhyphen"/>amples.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bul</hi> and <hi>mouth</hi> near <hi>Aldersgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:206444:2"/>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>YOƲ may see in this following Relation your fruits, with uncivil, undescreet, unmoderate, untemperate carriages you use, and hath been done by you to the people of God, to whip sufficient men, able men, as Vagabonds, which are the servants of the Lord, the most high God, and imprison men and women for reproving sin in the gate, and such are your prey; or in your places of worship, how unlike the Church of God are you, or the Apostles, which saith, you may all prophecy one by one? how unlike <hi>Peter</hi> are ye, and <hi>Joel,</hi> that saith, the Lord would pour on his sons and daughters, and they should prophecy? and such you imprison that prophecy to you, and strike, beat whip as Vagabonds, or as deceivers; (the Pharisees title) now did ever any of the Christians persecute and make such havock and such preys, and laid so many snares to intrap and catch and insnare the Innocent as you have done? as you may read in these following papers your fruits; to all so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er people you are a grief, you shame your Office, and dishonour the name, you pro<g ref="char:EOLhyphen"/>fess God and Christ, you make the Name of God <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>phemed in your Countrie<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lice is against such which <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> formerly hath borne Ar<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> cause they lay down their <gap reason="illegible: faint" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ward Armes, their carnal weapons, now you make a prey upon them, who by your snares and plots seek for them; because you knowing they cannot swear nor put off their hats, such as deny the honour below, and seek the honour of God, such by evil snares you make a prey upon; is it not a strange thing that you should make a prey, or be so ridged against the servants of the Lord, which by you in scorn are called <hi>Quakers?</hi> for your ridgedness was formerly against them when you were in outward Armes against them; And so <hi>Dorcet-Shire;</hi> to many of you. Is it not a strange thing that you should be perverse, but the Lord forgive you, and let you see your selves, for you have shamed your selves, your names you have set upon record, to be such that turn against them that be guided by the Spirit of God in the life of Jesus Christ, which shews all your service hath this long time been in the lip, what is in your hearts is now manifest; therefore let this time be sufficient you have spent, and wickedness and mischief you have acted against the servants of the Lord, and learn
+<pb n="3" facs="tcp:206444:2"/>humility that goes before the honour, and soberness, and temperance, and gravity, and that will be of good report to you; Is this the end of your Ministery and Church, and profession and Christianity, to whip, prison, fine, such as will not give you honour below? Is that it that disturbs you, and fine such as are gathered together in the Name of Christ, and will not break the Commands of Christ, do you think all the sober people in the Nation doth not take notice and view your fruits? Let the witness of God in all your consciences be a witness for the Lord against you, to your Condemnation; from a friend to your Souls and your eternal good, but a grief to see your practizes and ashamed of it. Therefore now you have time, repent, least you say, you had time, and it is past; come do you read in the Apostles Apistles or the Prophets, that they acted such things as you acted, or among the Apostles of Christ? read the Scriptures and try your practizes by them, and let them measure your rule, and let you see who you are like, the persecutors, or the Apostles that were persecuted? Was not the Priests in all ages such as stirred up the Ma<g ref="char:EOLhyphen"/>gistrates against the Prophets, Christ and the Apostles? are the Magi<g ref="char:EOLhyphen"/>strates, become to be their Executioners (for which cause the Lord over<g ref="char:EOLhyphen"/>turned many) Will not this fall upon you? It lyes upon you to consider it, the Lord will do Justice to his children, who Judges among the Judges; therefore do that which is of good report, and savory and com<g ref="char:EOLhyphen"/>mendable in the eyes of God and his people, and all sober people, that to such you may be a good savour, for many would hardly believe there had been such fruits and actions and carriages among you, in making such havock of the Church of God, and the people of God, by disturbing them and haling them from their peaceable meetings, and so much vio<g ref="char:EOLhyphen"/>lence in you towards them through the Priests perswasion; Be not ye their pack-horses, nor executioners to raven after the Innocent, and to destroy them for a thing of naught; But do Justice and keep peace, and walk humbly with God, and stop the way of violence, that will be the way whererby ye may come into a comfortable life with God and his people, which if not, you will be Judged by the Lord God and his peo<g ref="char:EOLhyphen"/>ple, and that in all your Consciences shall witness it at last, which now you kick against them, persecute and imprison them; and if they went into everlasting punishment, that visited not Christ in prison, What will become of you that cast him in prison? But consider these things, you who have acted like men without reason, or true understanding or knowledge, as though you never regard the Law of God nor man; How do you love enemies that persecute, is this your intertaining of stran<g ref="char:EOLhyphen"/>gers?
+<pb n="4" facs="tcp:206444:3"/>The Law saith, thou shalt not vex the stranger: which Law you have cast behind your backs, and Christs Command, and you persecute the servants of the Lord God as Vagabonds; What would you have done to <hi>Abraham,</hi> that had not a foot of ground? and to Christ, that had not room to lay his head? or the Apostles, that had no certain dwelling-houses, if they had been in your dayes? Are not you ashamed to pro<g ref="char:EOLhyphen"/>fess their Words, and walk contrary to their practizes? And was not <hi>Cain</hi> a Vagabond, that built a City, and had not a habitation in God, the persecutor; The murderer that rose against faithful <hi>Abel?</hi> And now though you have habitations on earth, yet not in God, you are in the same condition; therefore look to your selves betimes, for it is not past. Or how are you like <hi>Moses</hi> that Magistrate, that said, would all the Lords people were Prophets? Which you Magistrates cast the Prophets of the Lord, and his sons and daughters in prison; And are not you not an ill savour in this, doth not your fruits declare it?</p>
+         </div>
+         <div type="account">
+            <pb n="5" facs="tcp:206444:3"/>
+            <head>Here followeth a true Relation of the unjust imprison<g ref="char:EOLhyphen"/>ment of <hi>Samuel Curtis</hi> and <hi>John Gundry,</hi> by them called Justices, at a sitting of them at Sherborn in the year, <hi>1657.</hi>
+            </head>
+            <p>UPon the second month in the year, 1657. <hi>Samuel Curtis</hi> and <hi>John Gundry,</hi> then living in <hi>Evershot.</hi> in the County of <hi>Dorset,</hi> were by a Warrant, called, a peace processe, carried before <hi>Walter Foy</hi> of <hi>Melbury Bub,</hi> called a Justice, the said <hi>Walter Foy</hi> having nothing to accuse them of, he caused them to appear at the next general Sessions held at <hi>Sherborn</hi> in the County aforesaid, and when <hi>Samuel Curtis</hi> and <hi>John Gundry</hi> appeared before the Court at the Sessions, they began to be light and vain, and said here were <hi>Quakers</hi> come, and having nothing to accuse them of; Then they called Justices bid them put off their hats and be uncovered; But <hi>S.C.</hi> and <hi>I.G.</hi> standing there innocent be<g ref="char:EOLhyphen"/>fore them, knowing themselves clear as to the breach of any known Law; desired to know what law they had broken that they were brought hither, or who was their accuser? Then they called Justices, caused the Cryer to make proclamation that all men should stand uncovered in the face of the Court; then those called Justices said they will not put off their hats; But <hi>S. C.</hi> and <hi>I. G.</hi> desired to see what law they had broken? but they could not shew any, neither had they any one to ac<g ref="char:EOLhyphen"/>cuse them of any thing, that they had done; Then one of them said, that they had made a law for them (to wit that they should put off their hats) but <hi>S. C.</hi> and <hi>I. G.</hi> said that they should shew them a law that was made before they came to sit there, which was in the statutes of <hi>Engl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd,</hi> which was made by <hi>Parliament</hi> (for they were not law-makers) so when they could not shew them any law they had broken, nor ac<g ref="char:EOLhyphen"/>cuse them of any evil that they had done, then they com<g ref="char:EOLhyphen"/>manded them to depart, and to give attendance to the Court, and appear again when they were called, then after dinner
+<pb facs="tcp:206444:4"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as they were commanded, but in the mean time, after they had been the first time before them, they framed themselves an indictment against them; and when they were come before them they read their indictment, that <hi>S. C.</hi> and <hi>I. G.</hi> stood in contempt of the Court, which was false, for they themselves did command them to stand there before them; Then they asked them if they were guilty or not guilty? then <hi>S. C.</hi> and <hi>J. G.</hi> asked them what law they had broken? then they, called Justices said, that they should plead guilty or not guilty, then <hi>S. C</hi> and <hi>J G.</hi> said, that they should shew them what law they had broken, that they were guilty of the breach thererof; Then one of them called Justices said, that they stood in contempt of the Court, Then <hi>S. C.</hi> asked them wherein they stood in con<g ref="char:EOLhyphen"/>tempt of the Court, saying that they were commanded by them to stand there, and being there, whether they did not stand as sober men? and that they stood not in contempt of the court; but not any one of them called Justices, could shew them any law that they had broken, nor yet where they stood in con<g ref="char:EOLhyphen"/>tempt of the Court as they falsly accused them; Then <hi>William Hussey</hi> of <hi>Sha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tone,</hi> Judge of that County stood up and said to <hi>Samuel Curtis</hi> and <hi>John Gundry</hi> that this court doth fine you ten pounds a piece, or to lie in Prison until you pay it; so they were presently committed to prison, because they could not pay them money who had broken no Law, neither could any man accuse them of any evil they had done, but contrary to law and e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uity sent them to prison, so that equity could not enter, and those that refrain from evil, becomes their prey, <hi>Isai.</hi> 59.14 15. and doth not the Lord see these? and doth it not displease him that there can be no judgement found? and are not these such Judges as the Prophet speaks of <hi>Zeph.</hi> 3.3. saying, her Judges are evening wolves, who put aside Justice for a thing of nought, even for a hat; and thus were two men fearing God, taken out of their honest imployments, and then insnared and unjustly imprisoned, and those that did it have not learned to love their neighbour as themselves.</p>
+         </div>
+         <div type="account">
+            <pb n="7" facs="tcp:206444:4"/>
+            <head>The sufferings of the Lords people in the town of <hi>Brideport,</hi> by the hands of <hi>Nicholas Sampson</hi> and <hi>Robert Prince</hi> Bailiffs of that Town.</head>
+            <p>
+               <hi>GEorge Bewly</hi> a Servant of the Lord, and Minister of Jesus Christ, and <hi>John Ellis</hi> and <hi>Humphery Sprague,</hi> Servants of the Lord, coming to this Town of <hi>Brideport</hi> the 2d day of the ninth Moneth 57, being the seventh day of the week to a meeting which was in the Town the next day, being the first day of the week and having been at the meeting that day, the Bayliffs sent the Constables, whose names are <hi>Nicholas Way</hi> and <hi>John Davie</hi> with a warrant that night to bring them before them, the Constables having carried <hi>G<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orge Bewly, John Ellis,</hi> and <hi>Humphery Sprague,</hi> the Bayliffs they said they were wan<g ref="char:EOLhyphen"/>derers, and sent them to prison that night, and the next day sent for them to the Town Hall, and caused them to be whiped, and the day after being the third day of the week, sent them away with passes for vagabonds and wanderers, <hi>George Bewly</hi> was taken up in the street the third day, and halled out of the Town without his horse and cloaths, he desired of them that he might go back to his Inne where he lodged in the Town to fetch his horse and cloaths, and pay for what he had taken there, but they would not suffer him.</p>
+            <p>
+               <hi>George Bewly</hi> having passed some miles from the Town, and being freed again, came back to this Town again to fetch his horse and cloaths, was taken up again by the Constables before named, and carried before the Bayliffs <hi>Nicholas Sampson,</hi> and <hi>Robert Prince</hi> who carried him to the Hall, and caused him to be whipped again; telling him that he was come back from his Testimonial, but he told them that he was come back for his Horse and cloaths; then they sent him away with another passe without his horse and cloaths.</p>
+            <p>
+               <hi>George Bewly</hi> the Lords Servant having passed some miles from the town, he was again set at liberty, and then went to <hi>South Periot,</hi> where he had a meeting, and declared the word of the Lord, and then came to this town again the first day of the tenth moneth 57 to fetch his horse and cloaths, and three Friends of <hi>South-periot,</hi> and thereabouts came with him, whose names are <hi>Samuel Curtis, Richard Lincoln.</hi> and <hi>William Partridge,</hi> he tarried about one hour or two in the Town, and then was
+<pb n="8" facs="tcp:206444:5"/>on horse back riding out of the Town, the Constables before mentioned, came and laid hands on his horse bridle, and car<g ref="char:EOLhyphen"/>ried him before the Bayliffs again, who carried him to the Hall, and caused him to be whipt again the third time, telling him that he was come back from his testimonial again, who answererd that he was come back for his horse and cloaths, and was on horse-back riding out of the Town; the next day they sent him away on his horse with another passe, who having his horse and cloaths, returned not again, being sent with a passe from tithing to tithing for a vagrant person, he being a sufficient mans Son, his Father being worth many hundred pounds.</p>
+            <p>Also <hi>Richard Polbery</hi> of <hi>Lime-king</hi> then convinced, and com<g ref="char:EOLhyphen"/>ing into this Town the same day that <hi>George Bewly</hi> did, being the 21 day of the 9th. moneth 57 to the meeting the next day, and passing along the street with <hi>George Bewly</hi> the Lords Ser<g ref="char:EOLhyphen"/>vant, when they haled him out of the Town the first time, being the 24th. day of 9th. moneth 57. and being out of the liberty of the Town, and in the Parish of <hi>Bradpole, Nicholas Sampson</hi> one of the Bayliffs of the Town haled him into the Town again to the Town Hall, and caused him to be whipt, and sent him away with a passe from Tithing to Tithing for a wanderer and vagabond, who came to a meeting of the Lords People but six miles from his Fathers house.</p>
+            <p>
+               <hi>Frances Williams</hi> standing in the street, whilest <hi>George Bewly</hi> the Servant of the Lord was examined, when he was in <hi>Bride<g ref="char:EOLhyphen"/>port</hi> the second time, being the twenty sixth day of the ninth moneth, 1657 was afterwards taken up and sent to prison by the Bayliffs before mentioned, writing on his <hi>mittimus</hi> for gathering together in a riotous manner, to above the number of three, &amp;c. which is false, he being but going along with <hi>George Bewley</hi> the Lords servant, and standing there to see what they would do with him, and this they enviously call a Riot.</p>
+            <p>
+               <hi>Francis Williams</hi> his Wife standing in the street also to see what they would do with <hi>George Bewly</hi> was by <hi>Robert Prince</hi> on of the Bayliffs strook two or three times on her breast wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his elbow forcibly, she being with child near her time.</p>
+            <p>
+               <hi>Ni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tone</hi> standing in the street also the same time w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:206444:5"/>taken up and sent to Prison, with <hi>Francis Williams,</hi> writing in his <hi>mittimus,</hi> for gathering together in a riotous manner, to above the number of three, for laying violent hands on <hi>Robert Prince,</hi> one of the Bailiffs, which is false, he being going along with <hi>George Bewly</hi> the Lords servant, and standing there to see what they would do to him, and this they enviously call a Riot.</p>
+            <p>
+               <hi>Walter Hallet</hi> standing in the street, and being going up the stairs to the Hall, where they examined <hi>George Bewley</hi> again, af<g ref="char:EOLhyphen"/>ter they had examined him at the Bailiffs house; was by <hi>Robert Prince</hi> one of the Bailiffs (who is also called a Justice of Peace) strook many blowes on his head, very violently with a Cane.</p>
+            <p>
+               <hi>Bartholomew Lugge</hi> standing in the street, was also afterwards by the same Bailiffs sent to prison, writing in his <hi>mittimus,</hi> for gathe<g ref="char:EOLhyphen"/>ring together in a riotous manner above the number of three, and for hindring the execution of Justice, which is likewise false, he being going along with <hi>George Bewly,</hi> and standing there to see what they would do to him; and this they enviously call a Riot.</p>
+            <p>
+               <hi>William Eliot</hi> the younger, standing in the street also, when <hi>George Bewly</hi> was examined, was afterwards sent for by the same Bailiffs, and by them sent to Prison, writing on his <hi>mittimus,</hi> that he had abused the officers of the Town, in the execution of Justice, and disturbed them in the execution of the statute made for the punishment of Rogues and sturdy beggars: <hi>George Bew<g ref="char:EOLhyphen"/>ly</hi> being a sufficient mans son, worth hundreds of pounds; and <hi>William Eliot</hi> going with <hi>George Bewly</hi> the Lords servant, and standing there to see what they would do to him, and this they enviously call an abuse and a disturbance to hinder the execution of Justice, which is false, while they themselves did falsly ac<g ref="char:EOLhyphen"/>cuse and punish a servant of the Lords, <hi>George Bewly</hi> undeser<g ref="char:EOLhyphen"/>vedly.</p>
+            <p>Some time after, the same Bailiffs sent for <hi>Anne Weber,</hi> against whom <hi>Anne Egarton</hi> the wife of <hi>John Egarton</hi> of <hi>Brideport</hi> had sworn, that when <hi>George Bewly</hi> was in the Town, she should wish that fire and brimstone might come down from Heaven and con<g ref="char:EOLhyphen"/>sume them, which she sayes is false, the words she then spake, as she sayes, are these, That there is a Just God in heaven which saw their actions, and would reward them accordingly, or to that pur<g ref="char:EOLhyphen"/>pose; so they said, she had cursed, and for that cause as they pretended, they put her in the stocks.</p>
+            <pb n="10" facs="tcp:206444:6"/>
+            <p>
+               <hi>Francis Williams, Nicholas Stone, Bartholomew Lugg</hi> and <hi>Wil<g ref="char:EOLhyphen"/>liam Eliot,</hi> remained prisoners until the third or fourth month, 1658. and then being the Sessions for the Town, they were brought to the Sessions, <hi>Francis Williams</hi> was freed, <hi>Nicholas Stone,</hi> against him there was two Bills read, against <hi>Bartholomew Lugg</hi> there was one Bill read, and against <hi>William Elliot</hi> there was one Bill read, all which Bills they knew to be false, and therefore were not free to be tryed by a Jury: so then they fined <hi>Nicholas Stone</hi> 10 l. and <hi>Bartholomew Lugg</hi> 5 l. and <hi>William Elliot</hi> the younger 5 l. so these three, <hi>viz. Nicholas Stone, Bartholomew Lugg</hi> and <hi>William Elliot</hi> the younger remains yet prisoners in <hi>Brideport, Nicholas Stone</hi> ha<g ref="char:EOLhyphen"/>ving a wife and five children, and <hi>William Eliot</hi> a wife and four children, whose maintenance depends most upon their labours, they being poor men.</p>
+            <p>
+               <hi>Nicholas Sampson</hi> and <hi>Robert Prince</hi> Bailiffs of the Town of <hi>Brid<g ref="char:EOLhyphen"/>port,</hi> upon the sixth day of the ninth month, 1657. sent for <hi>Lore Bagg</hi> the wife of <hi>Richard Bagg,</hi> and her son <hi>Thomas Bagg,</hi> and three of her daughters, <hi>Sarah Bagg, Mary Bagg</hi> and <hi>Abigal Bagg,</hi> five of one Family, and demanded two shillings and six pence a piece of them for wandring and prophane walking, as they said on the Sabbath day, which was onely for coming from their meeting, from one <hi>Francis Williams</hi> house, where they were met together to wait upon the Lord in his fear, and for going from his house where the meeting was, to the house where their outward abode is, both houses being in the Town of <hi>Brideport,</hi> about a how shot and a half asunder, were thus accused <hi>viz.</hi> for prophane walking and wandring, they refusing to pay the money deman<g ref="char:EOLhyphen"/>ded of them, knowing themselves not guilty of the breach of a<g ref="char:EOLhyphen"/>ny Law of this land, they let them pass to their outward home again, telling them it had been better that they had paid the mo<g ref="char:EOLhyphen"/>ney they asked of them.</p>
+            <p>Upon the 15th. day of the 7th. month, 1658. they were all sent for again, by the same Bailiffs, when they came before them, they told them that at the last Sessions there was a peace processe given forth against them, and demanded sureties of them to ap<g ref="char:EOLhyphen"/>pear at the next Sessions; they asked them for what they should give sureties, telling them they had broken no Law of this land; then they said, they should know wherefore at the Sessions; they refusing to give any sureties, were then forthwith sent to Prison,
+<pb n="11" facs="tcp:206444:6"/>by the same Bailiffs; they remained there untill the Sessions, which was on the 4 and 5 dayes of the 8th. month, 1658. and were then brought to the Sessions; as soon as they came before them, they <hi>viz.</hi> the Bailiffs, <hi>Lyonel Brown</hi> and <hi>John Coussins,</hi> and <hi>Nich. Sampson</hi> &amp; <hi>Robert Prince</hi> called Justices, &amp; <hi>John Hoskins</hi> the Recorder, fined <hi>Thomas Bagg</hi> thirteen shillings and four pence, for not putting off his hat; then there was a Bill read against each of them, that upon the first of November 1657. they being before the Justice of the peace of the Town, were then convicted that on the first of November 1657. they were at no Church, nor Chappel, nor other place of publick meeting, where the worship and service of God was performed, nor the Lords day duely ob<g ref="char:EOLhyphen"/>served, but wholly neglecting the sanctifying of that day, and the performance of all Holy and Religious duties; which was false, they having been at a meeting of the people of God, who worshipped God in the Spirit and in the truth, as the Apostles and Christians did of old, <hi>Rom.</hi> 16.5: as the Church did in the house of <hi>Epenetus;</hi> Did not these worship God, that had no Chappel nor Steeple-house, which the Papists set up since their dayes? then they asked them, if they were guilty or not guilty, they answered they were not guilty of any such thing as was read against them; then they asked them, if they would be tryed by a Jury, they answered, that they did desire to be tried by a Jury: then they bid them lay down their money for their traverse, to enter their plea: then they answered them, they should not tell them of traversing, they had taken them from their outward im<g ref="char:EOLhyphen"/>ployment, and sent them to Prison, and told them that they should know wherefore at the Sessions, and now they were brought to the Sessions, &amp; did desire to know wherefore they were sent to prison, &amp; also to be tried by a Jury according to the Law of this Nation; but as for giving them money, that they could not do; so they would not grant them a Jury unless they could give them money, and buy Justice: they told them that Murderers had more priviledge of the Law then they had; <hi>Lyonel Brown</hi> one of the Bailiffs said, that Murderers had a priviledge above them: so then because they could not give them money, when as they had broken no Law, they were sent to prison again, committed for two shillings and six pence a piece until they did pay it: <hi>Lore Bagg</hi> being above three score years old, and her husband <hi>Richard Bagg</hi> being left alone,
+<pb n="12" facs="tcp:206444:7"/>all his Family being taken from him, he being a mercer, driving a considerable trade in the Town of <hi>Brideport,</hi> and which in this condition he is altogether unable to manage his trade; and these were long kept in a close Prison, and abused, and suffered hard<g ref="char:EOLhyphen"/>ships, but the Lord preserveth the faithful, and his enemies he confoundeth.</p>
+            <p>
+               <hi>Bartholomew Lugg</hi> being a prisoner before, was called at the Sessions, who formerly was fined, they told him his fine was ta<g ref="char:EOLhyphen"/>ken off, and he was to be freed if he would pay fees, which he refused to do, having broken no Law, then he was taken away by the Keeper, and was afterwards called again; when he came be<g ref="char:EOLhyphen"/>fore them the second time, then they fined him thirteen shillings and four pence, for not putting off his hat, and so sent him to Prison again.</p>
+            <p>
+               <hi>Nichlas Stone</hi> being a prisoner before, was brought to the Ses<g ref="char:EOLhyphen"/>sions, and a Bill was read against him, wherein was written, that he came into the Church wilfully and disturbed the Minister in that Town; then they asked him if he were guilty or not guilty; he bid them prove what there was read against him, and asked if there were any that would prove it against him; they told him it was proved already, but there was none came forth there, nor elsewhere before him to prove it; so then they committed him to the Bridewell to hard labour for five Months, though when he went into the Steeple-house he spake not a word until the Priest had ended.</p>
+            <p>
+               <hi>William Eliot</hi> the younger, being a prisoner before the Ses<g ref="char:EOLhyphen"/>sions, remains a prisoner as before, lying sick then, near unto death.</p>
+            <p>
+               <hi>Joseph Cole</hi> a servant of the Lord, being moved of the Lord to declare the Word of the Lord, in <hi>Lime</hi> in the street on a market day, was by the Mayor <hi>Robert Buridge,</hi> and <hi>Ignortius Turner</hi> called a Justice, taken up and imprisoned, the next day sent to <hi>Dorchester</hi> Prison with a <hi>mittimus,</hi> which was written to the Keeper of the Common Goal in <hi>Dorchester,</hi> who was therein commanded to take into custody the body of <hi>Joseph Cole,</hi> and him safely to keep in Prison, until he was thence delivered according to Law, he refusing, as they said, to give sureties for his appearing at the Assi<g ref="char:EOLhyphen"/>zes, and to be of good behaviour, he having in this Town in a market day vented his own imaginations in a publick manner,
+<pb n="13" facs="tcp:206444:7"/>tending to sedition, as they said; his <hi>mittimus</hi> was dated the 25th. day of the second Month, 1657. Here those blind and envious men call good evil, and put light for darkness, and call the Word of the Lord an Imagination, and tending to sedition; even as <hi>Paul</hi> the servant of the Lord, for declaring the Word of the Lord in the streets and market places, was called a Sectarian.</p>
+            <p>
+               <hi>Joseph Cole</hi> being committed to <hi>Thomas Wise,</hi> to carry him to <hi>Dorchester,</hi> they came into the Town of <hi>Brideport</hi> the seventh day of the week at night, &amp; lay in the Town that night, the next day being the first day of the week, <hi>Joseph Cole</hi> being moved of the Lord, went to the Steeple-house in <hi>Brideport,</hi> where <hi>John Eaton</hi> an hireling Priest doth teach for hire; and after the Priest had ended, he ac<g ref="char:EOLhyphen"/>ked him a question, and forthwith the people came to him and kicked him, &amp; haled him by the hair, &amp; used him very bruitishly, and so haled him away to Prison, where he remained until the next day, then the Bailiffs having desired the <hi>mittimus</hi> of <hi>Thomas Wise,</hi> which he had to carry him to <hi>Dorchester</hi> with, they kept is from him, and sent away <hi>Joseph Cole</hi> with another <hi>mittimus,</hi> and a man of <hi>Brideport</hi> with him to <hi>Dorchester</hi> Prison, so they having taken <hi>Thomas Wises</hi> prisoner from him, and kept away his <hi>mitti<g ref="char:EOLhyphen"/>mus,</hi> he went to <hi>Lime</hi> again, the Bailiffs of <hi>Brideport</hi> then were <hi>William Balstone</hi> and <hi>Morgan Bull.</hi>
+            </p>
+            <p>The last day of the 6th. month, 1657. <hi>Humphrey Smith</hi> a ser<g ref="char:EOLhyphen"/>vant of the Lord, and Minister of Jesus Christ, came to <hi>Dorchester</hi> that night, and also <hi>Thomas Woodrow</hi> a servant of the Lord; <hi>Hum<g ref="char:EOLhyphen"/>phrey Smith</hi> had a meeting of the Lords people to wait upon the Lord in that Town where was much disturbance by many, and the Constables ordered the Watch-men to take up them that came there to the meeting, they took up such as were stran<g ref="char:EOLhyphen"/>gers that they met with, they took up <hi>Francis Taylor</hi> and <hi>Josias Moris,</hi> and put them in the Blind-house all the night; the next day being the first day of the seventh Month, 1657. <hi>Thomas Woodrow</hi> went to the Blind-house to see those friends that had layen there that night, notice thereof being given to the Mayor <hi>Thomas Si<g ref="char:EOLhyphen"/>mons,</hi> he with the rest of the company sent for <hi>Thomas Woodrow,</hi> and caused him to be whipt, and sent with a pass from tithing to tithing.</p>
+         </div>
+         <div type="account">
+            <pb n="14" facs="tcp:206444:8"/>
+            <head>Sufferings of the Lords people in <hi>Sherburn</hi> and <hi>Longburton</hi> [in <hi>Dorcet-Shire.</hi>
+            </head>
+            <p>
+               <hi>John Fits-Iames</hi> called a Justice, a great persecutor of the Lords people, living at <hi>Lussone</hi> house, in the Parish of <hi>Longburton,</hi> did send <hi>Winyfred Winzer</hi> and <hi>Anne Colborne</hi> of his Parish, to the Bridwell in <hi>Sherburn,</hi> where they were kept many weeks, because they would not come to the Seeple-house; he did pretend first it was because they did not get them Masters to live with, when one of them lived with her Aunt; but afterwards when they were to go to the Bridwell, the Officer told them, that if they would go to the Steeple-house, which he called the Church, they should be freed; and after <hi>Anne Colborn</hi> was come to <hi>Sherburn,</hi> where the Bridwell was, the Officer that brought her there told her, that if she would but go to the Steeple-house there, there being that day a Lecture of the Priests, then she should go back again and be freed; so that if we go not to the Mass-house we are impriso<g ref="char:EOLhyphen"/>ned, and if we are moved to go there, we are imprisoned also.</p>
+            <p>And also he caused <hi>John Hide</hi> and <hi>Robert Hart</hi> to be taken up with his Warrant and brought before him, and imprisoned part of two dayes, and then put into the stocks, because they would not go to the Steeple-house.</p>
+            <p>Another time <hi>John Hide, Robert Hart, John Scote; Abraham Farant</hi> and <hi>Samuel Atkins</hi> going to the meeting in <hi>Longburton,</hi> were taken up by his Warrant and brought before him, and kept Prisoners, because they would not go to the Steeple-house, and after let go again.</p>
+            <p>And <hi>Francis Taylor</hi> being moved of the Lord to go to the Stee<g ref="char:EOLhyphen"/>ple-house in <hi>Longburtone,</hi> the said <hi>Iohn Fitts-Iames</hi> himself laid hands on him and thrust him out, saying if he would not got out, he would send him to Prison:</p>
+            <p>
+               <hi>Francis Taylor</hi> coming there the second time upon another day to the Steeple house, <hi>Iohn Fitts-Iames</hi> laid hands on him a<g ref="char:EOLhyphen"/>gain, and pulled him down to the ground, and then caused him to be dragged by the heels, and then took him up and threw him forth into the portch, with much violence, that his head came first to the stones, and one of them cry<g ref="char:EOLhyphen"/>ed, knock him on the head, and then they took him up and threw him upon the graves, that many supposed he had been
+<pb n="15" facs="tcp:206444:8"/>dead, yet <hi>Iohn Fitts-Iames</hi> commanded the people to throw him farther, and when few were so merciless to abuse him more, <hi>John Fitz-James</hi> took him up himself, and so did help to hurle him into his fathers house, and there threw him on the ground, and then set a guard upon him, and so made his fathers house his prison; And when <hi>Francis Taylor</hi> went upon some outward occasion to the Priests house, whose name is <hi>Sam<g ref="char:EOLhyphen"/>ways,</hi> he was moved with envy towards him, and having a professor by him, whose name is <hi>William Dighar,</hi> he beat him, and thrust him out of his house.</p>
+            <p>Upon the 22th day of the seventh Month; 1657. <hi>Thomas Stickland</hi> and <hi>Francis Dumberfield</hi> of broad <hi>Saron,</hi> were com<g ref="char:EOLhyphen"/>manded to appear before <hi>Iohn Fitz-Iames, Walter Foy</hi> and <hi>Frane is Hollis</hi> called Justices, at <hi>Robert Shepherds</hi> house at a privy Sessions in broad <hi>Saron</hi> in the County of <hi>Dorset,</hi> who there de<g ref="char:EOLhyphen"/>manded of them, why they did not come to the place called the Church? when they had given them a sufficient answer to it, they committed them to Prison for wearing their hats in their pre<g ref="char:EOLhyphen"/>sence; so this was their snare whereby to send poor men to Pri<g ref="char:EOLhyphen"/>son, making their <hi>mittimus</hi> for divers and sundry misdemeanors committed in their presence who sent them to Prison, the next day being the 23th. day of the seventh Month, 1657. and there remained prisoners until the eighth day of the eighth Month, 1658 and then were brought to <hi>Brideport</hi> at the next general Sessions, and there by them called Justices at the Sessions were fined two pounds a piece, for no other thing, but for not putting off their hats, and so were sent back to Prison again, they being two poor men, having five children a piece; who wrought with their hands to maintain themselves, their wives and chil<g ref="char:EOLhyphen"/>dren, &amp; were taken from their labours and sent to prison, because they could not put off their hats and bow to proud men; Was not that the cause that proud <hi>Haman</hi> was wroth with <hi>Mor<g ref="char:EOLhyphen"/>decai,</hi> because he could not bow to him? and <hi>Saul</hi> though a King or Magistrate, yet when he broke the Command, was departed from the Righteous Law of God: then he said, honour me before the people; Thus they left their wives as widows, and many children to perish for wearing the hat, which was without Law or mercy.</p>
+         </div>
+         <div type="account">
+            <pb n="16" facs="tcp:206444:9"/>
+            <head>Sufferings of the Lords servants in <hi>Dorchester.</hi>
+            </head>
+            <p>
+               <hi>Richard Fair-man</hi> and servant of the Lord, and Minister of Jesus Christ, was passed through a place called <hi>Winfreth</hi> in <hi>Dorcet-shire,</hi> being passing along towards his outward habitation, one <hi>Petfield</hi> Priest of <hi>Winefreth</hi> sent a Watch-man after him on the high way, and fetched him back again, and carried him before <hi>Roger Cla<g ref="char:EOLhyphen"/>vil</hi> a Justice, who sent him to <hi>Dorchester</hi> Prison, where he re<g ref="char:EOLhyphen"/>mained in prison twenty weeks and more.</p>
+            <p>
+               <hi>Matthew Thomas</hi> a servant of the Lord, coming to <hi>Blandford,</hi> was sent to <hi>Dorchester</hi> Prison, by one <hi>Major Dewye</hi> called a Ju<g ref="char:EOLhyphen"/>stice.</p>
+            <p>
+               <hi>Anthony Meledge</hi> of <hi>Lime,</hi> went to <hi>Corfetown</hi> to visit his mo<g ref="char:EOLhyphen"/>ther a widow, and his friend <hi>Humphrey Smith</hi> with him, <hi>Hum<g ref="char:EOLhyphen"/>phrey Smith</hi> being declaring the Word of the Lord there in the house, were by one Doctor <hi>Gibbons</hi> and <hi>Richard Iones</hi> disturbed, who came with a Warrant, and carried them before <hi>Roger Cla<g ref="char:EOLhyphen"/>vil,</hi> and he sent them both to <hi>Dorchester</hi> Prison, where they were prisoners twenty weeks or above.</p>
+            <p>Upon the one and twentieth of the fourth Month, 1657. <hi>Bartholomew Lugg</hi> of <hi>Brideport</hi> came to a meeting of the Lords people to wait upon the Lord in <hi>Dorchester,</hi> the Constables came into the meeting and took <hi>Bartholomew Lugg</hi> out of the meeting, and carried him before <hi>Iohn Whiteway</hi> of that Town, called a Justice, it being the first day of the week, he did nothing to him but appointed him to come to him the next day, and when he came to the Hall, <hi>Iohn Whiteway</hi> called a Justice, and <hi>Thomas Simons</hi> Mayor with others of the com<g ref="char:EOLhyphen"/>pany caused <hi>Bartholomew Lugg</hi> to be whipped for breach of the Sabbath, as they said, and made him a pass the two and twentieth day of the aforesaid Month, and sent him home from tithing to tithing, which is counted but twelve miles.</p>
+            <p>Upon the first day of the first Month, 1658. <hi>Elizabeth At<g ref="char:EOLhyphen"/>kins</hi> then living in South <hi>Periot,</hi> was sent to Prison at <hi>Dor<g ref="char:EOLhyphen"/>chester</hi> the County Goal, by <hi>Walter Foy</hi> of <hi>Bubdown</hi> called a Ju<g ref="char:EOLhyphen"/>stice, she having been the first day before, and the first day two weeks before at the Steeple-house in South <hi>Periot,</hi> where <hi>Ieremiah French</hi> the Priest being in his high place, and when he had done she spake some words to the people, then presently <hi>Richard</hi> the Constable took her up, and carried her away to an Ale-house, and
+<pb n="17" facs="tcp:206444:9"/>kept her prisoner, &amp; the next day he carried her before <hi>Walter Foy</hi> called a Justice, and <hi>Richard Farnham</hi> himself swore before <hi>Walter Foy,</hi> that <hi>Elizabeth Atkins</hi> had disturbed them the day before in their Steeple-house, and that he was disturbed as soon as he saw her come into the house; wherefore <hi>Walter Foy</hi> sent her to <hi>Dorchester</hi> Prison until the next sessions which was kept at <hi>Sherburn,</hi> where she was brought forth, where <hi>Jeremiah French</hi> Priest of South <hi>periot</hi> came and did swear that she had disturbed him in his Steeple-house; wherefore <hi>Wil. Hussey</hi> Judge of that Court, whose dwelling is at <hi>Shaston,</hi> with the rest of them called Justices, at the Sessions kept in the se<g ref="char:EOLhyphen"/>cond moneth, 1658. did send her to the Brid-well in <hi>Sherborn,</hi> there to be kept for six moneths.</p>
+         </div>
+         <div type="account">
+            <head>Sufferings of the Lord People in <hi>Weymouth,</hi> and <hi>Milcom Regis.</hi>
+            </head>
+            <p>ABout the 21 day of the 4 moneth in the year 56. <hi>Geo. Bayly</hi> a Servant of the Lord moved of the Lord, went into the Steeple-house of <hi>Waymouth,</hi> &amp; <hi>Melcom Regis</hi> &amp; begining to speak unto the people, he said, hear the word of the Lord God eter<g ref="char:EOLhyphen"/>nal; whereupon the rude people fell upon him and haled him forth, and then <hi>Thomas Waltham</hi> of <hi>Waymouth,</hi> and <hi>Milcom Re<g ref="char:EOLhyphen"/>gis</hi> aforesaid, being Mayor of the Town, committed him to pri<g ref="char:EOLhyphen"/>son in that town, where they kept him three dayes and three nights, and then had him up into the Town Hall, where they asked him many idle, vain, frivolous questions; as what his name was, and where he was born, and how long he had been from home, and such like things, having not any crime to charge him with, nor the breach of any known Law; and yet notwithstanding returned him to prison again, and the next day made him a <hi>mittimus</hi> and sent him to the Prison in <hi>Dorchester</hi> it being the County Prison.</p>
+            <p>Upon the 16th day of the ninth moneth 1656. <hi>Jasper Batt</hi> a Servant of the Lord, being moved of the Lord, went into the Steeple-house of <hi>Waymouth</hi> and <hi>Melcom Regis,</hi> where he found <hi>George Thorn</hi> Priest of the said Town, in the chief seat of the Synagogue, and demanding of him if he were a Minister of Christ, he answered he was, whereupon <hi>Jasper</hi> bid him prove
+<pb n="18" facs="tcp:206444:10"/>his Ministry, but he like a hireling fled away from his flock, who like a company of Lions fell upon him, and beat and ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed him to prison, where he was detained until the evening, and then let him forth; he was committed by <hi>Thomas Waltham</hi> dep<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y Mayor in the absence of <hi>James Gare</hi> Mayor.</p>
+            <p>Upon the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0th day of the tenth moneth 1656. <hi>John Scafe, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>field, R<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hard Adams, Josiah C<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> and <hi>John Allen</hi> Servants of the Lord, being moved of the Lord to go into the Steeple-house of <hi>W<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>th,</hi> to declare against the Idolatrous worship, &amp; to declare the truth of that place, were (by some of the Priests followers, who are said to be of a gathered Church) very despicefully used, being bearen and haled out of the assembly; and afterwards <hi>John Scafe</hi> a Minister of Christ being speaking in the grave-yard to the people was plucked down from the place where he stood by violent hands, and were all of them dragged through the market to the Town <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all, from whence they were committed to prison by <hi>James Gare</hi> Mayor of <hi>Weymouth,</hi> where they were kept all that day and might following, and the next day set at liberty again.</p>
+            <p>About the second moneth, in the year 1657. <hi>Ambrose Rig</hi> a Servant of the Lord and Minister of Jesus Christ coming to the town of <hi>Weymouth</hi> and <hi>Milcom Regis,</hi> was moved of the Lord to go into the Steeple-house, where he stood in silence until the Priest had done his exercise, and then beginning to speak as he was moved of the Lord, the Priests flock came upon him, haling, pulling, beating, and tearing his cloaths like so ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Wo<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s; and after they had put him forth of the Assem<g ref="char:EOLhyphen"/>bly, they had him to the Town Hall, where they asked him di<g ref="char:EOLhyphen"/>vers frivilous questions, &amp; after this he was committed to prison in that Town by <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</hi> Mayor of <hi>Waymouth</hi> and the next day towards the evening, an officer was sent from the Mayor to the Prison to tell <hi>Ambrose Ri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> that if he would the next morn<g ref="char:EOLhyphen"/>ing depart out of the Town towards his home, and not trou<g ref="char:EOLhyphen"/>ble them any more, he should then have his liberty; but he being not free to make such a promise, he was then kept also that night in the same Prison, and the next morning came Officers from the Mayor with a <hi>mittimus</hi> under his hand to take him forth thence, and carry him to the Prison in <hi>Dorche<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> it being the County Prison which was accordingly done;
+<pb n="19" facs="tcp:206444:10"/>so that he was imprisoned because he could not go out of the Town, who have not learned to entertain strangers.</p>
+            <p>Upon the fourth day of the first moneth 1658. <hi>Dorothy San<g ref="char:EOLhyphen"/>ders</hi> whose outward habitation is in <hi>Weymouth,</hi> and <hi>Milcom Regis,</hi> was moved of the Lord to go into the Idol Temple in that same Town, to bear Testimony against the Idol Worship, and the Idol Shepherd, he being a stranger who was exercising in the high place that day, who seeing her come in, his coun<g ref="char:EOLhyphen"/>tenance fell, and she standing silent near a quarter of an hour, and hearing his vain prayer offered up from an evil heart (which is an abomination to the Lord) she groaned in the spirit, and he that prayed ceased; then <hi>George Thorn</hi> Priest of the Town sitting near that place called the Pulpit where the other Priest was exercising, beckened with his hand to have her taken away, his flock being ready to fulfill the desire of their leader, who like unhumane bruit beasts fell upon her, and haled her out of the Assembly, and shut the doors after her, and being in the street waiting on the Lord what to do farther, she could not depart without going in again, which accordingly she did, and got up near the place where the Priest was, and as she was beginning to speak, the rude multitude fell on her as at the frist, and stopped her mouth, and hurled her out of the Steeple-house, and then <hi>Stephen Edwards</hi> of <hi>Waymouth,</hi> and <hi>Milcom Regis</hi> who is called a Bayliff, and chosen by the Town to have done justice for that year, committed her to prison, where she was kept until the seventh day of the same moneth late at night, by which action <hi>Stephen Edwards,</hi> who is called an elder of the Priests Church, did sufficiently manifest his spirit of cruelty and persecution, for she being a woman of a very weak body, and the weather so exceeding cold, she was brought so low, that it was believed by all that came near her, that she would have lain down the body, and had it not been that <hi>Stephen Edwards</hi> feared that she would have died in prison, and so her blood had lain upon his head, its likely she had lain there long enough.</p>
+            <p>
+               <hi>Here you may see how they quench the spirit of God, in the Daughters for Prophesying.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="20" facs="tcp:206444:11"/>
+            <head>Sufferings of the Lords People in <hi>South-Periot.</hi>
+            </head>
+            <p>UPon the sixteenth day of the sixth moneth 1657. <hi>John Gundry</hi> living in <hi>South-periot,</hi> was moved of the Lord to go to the Steeple-house in <hi>South-periot</hi> (it being the first day of the week) where <hi>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remiah French</hi> is Priest; who then being in his high place, when he had ended and was come down out of his high place, <hi>John Gundry</hi> spake to the Priest, and to the people in the Name and sear of the Lord, warning them to repent<g ref="char:EOLhyphen"/>ance; and while <hi>John Gundry</hi> was speaking to the people, the Priest ran violently against him and struck him, and then like a hireling fled away, and the next day <hi>Edward Ireland</hi> a Tith<g ref="char:EOLhyphen"/>ing man in that Parish came with a warrant from one <hi>Walter Foy</hi> called a Justice living at <hi>Bubdown,</hi> having a company with him with Pike and staves, and took him up, and carried him the next day before <hi>Walter Foy</hi> at the Lecture of the Priest at <hi>Yea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> where <hi>Jeremiah French</hi> Priest, and <hi>Richard Far<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham</hi> one of his disciples came and swore that <hi>John Gundry</hi> had di<g ref="char:EOLhyphen"/>sturbed him, <hi>Jeremiah French,</hi> the Priest, the first day before (in his Idol Temple) wherefore <hi>Water Foy</hi> committed him to <hi>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ch<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er</hi> prison until the next general Sessions, but he being sick in the prison where he indured a great sicknesse, even near unto death, was not brought forth until the second Sessi<g ref="char:EOLhyphen"/>ons after, in the eleventh moneth, kept at <hi>Blandford,</hi> where the Priest <hi>Jeremiah French,</hi> and <hi>Edward Ireland</hi> that was the Tithing man that took <hi>John Gundry</hi> up, appeared there at the Sessions against <hi>John Gundry,</hi> and an indictment was framed, and <hi>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Gundry</hi> called and his indictment read, which was false (here the Priest manifested his fruits, and Christ said that by their fruits you shall know them) first he broke the command of Christ, who said <hi>swear not at all, Mat.</hi> 5.35. and also to swear to a false indictment; and then <hi>William Hussey</hi> whose dwelling is at <hi>Shastone</hi> called Judge of the Court, with the rest of them called Justices, fined <hi>John Gundry</hi> 40. s. to the Protector, &amp; 40. s. to <hi>Jeremiah French</hi> (here the Priest covets for money) who sat at the bench among them called Justi<g ref="char:EOLhyphen"/>ces, while <hi>John Gundry</hi> was before them, <hi>John Gundry</hi> was sent to Prison by <hi>Walter Foy</hi> for going to the Steeple-house, and at
+<pb n="21" facs="tcp:206444:11"/>the Sessions an indictment framed and read against him as to that effect, for breaking the Law, in molesting, hindering, and disturbing Mr. <hi>Jeremiah French,</hi> Minister, but when he was brought before them, then they called Justices, said he stood in contempt of the Court, and so fined him, although he stood sober before them, being brought forth before them by the Keeper of the Prison, <hi>John Gundry</hi> was called, and his indict<g ref="char:EOLhyphen"/>ment read the 15th day of the eleventh moneth 1657. the same day the Priest <hi>Jerem. French,</hi> and <hi>Ed. Ireland</hi> rode towards their home (before <hi>John Gundry</hi> was fined, for after that the indict<g ref="char:EOLhyphen"/>ment was read, and some words had past from them called Ju<g ref="char:EOLhyphen"/>stces, J<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Gundry</hi> was put by again, and not called until the 7th. day of the eleventh moneth 57 and then fined forty shillings to the Protector, 40 shillings to <hi>Jerem. French</hi> the Priest o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> South-<hi>Periot,</hi> or else to lie in prison until he pay it, and as they <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e riding homeward through a Town called <hi>Evershot, Edward Ireland</hi> that was a tithing man, reported that <hi>Iohn Gundry</hi> would be sent to prison, who came home to his house, and the eighteenth day of the same moneth being the seventh day of that week, in the evening the Lord struck the said. <hi>Edward Ireland</hi> dead suddenly in his house, which struck a dread in many who had a hand in persecuting the Lords people, and especially one <hi>Richard Farnham</hi> the Constable of that same place, a wicked envious man, who hath often and mali<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iously persecuted the Lords People in that place, as afterwards will appear; this <hi>Richard Farnham</hi> came into <hi>Edward Irelands</hi> house to see him at the cry of the people, and when he was come into the house, the dread of the Lord fell upon him also, and he fell down even as dead in the house; then many of the people that were gathered together there ran about him to shake him up, and after much striving and stirring, he recovered to live again, (his measure of wickednesse being not yet full) but the dread of the Lord lay on him, so that he was sick for some time after it, and then for a time the Lords people had rest from this cruel persecutor, who when he was again recovered to health, soon after forgot the hand of the Lord that fell upon him, and went on maliciously to persecute the Lords innocent people again.</p>
+            <p>Upon the ninth day of the seventh moneth 1657. there was
+<pb n="22" facs="tcp:206444:12"/>a meeting of the Lords people to wait upon the Lord at the house of <hi>Samuel Curtis</hi> in South-<hi>Periot,</hi> and after the meeting was ended, many Friends not being past away, there came <hi>Edward Ireland</hi> the Tithing man, and the a forenamed <hi>Richard Farnham</hi> with several others, having a warrant from one <hi>Wal<g ref="char:EOLhyphen"/>ter Foy</hi> called a Justice, to apprehend all Rogues, Vagrants, wandering persons and strangers, that cannot give a good ac<g ref="char:EOLhyphen"/>count of any worldly occasions for their travel, and under pretence of this warrant, they came into the house of <hi>Samuel Curtis,</hi> and so made a disturbance amongst many sober men, and did there examine several of the Lords People as Rogues and Vagrants, because they were strangers to them (when the Apostle saith be careful to entertain strangers, <hi>Heb.</hi> 13.2. and the Lord commanded the Jews that they should not vex the stranger, nor oppresse him, <hi>Exod.</hi> 22.21. being much set on by <hi>Ri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd Far<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m</hi> against them, and when he could not f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd any thing to be evil in them, but was made to confesse with his mouth in the house before many people, that he did believe that they were honest men, and that they did look like honest me, yet this man <hi>Edward Ireland</hi> examined them where they d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, who gave him an account, yet neverthe<g ref="char:EOLhyphen"/>lesse he told them, <hi>viz.</hi> the Lords people, that he had a war<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant to apprehend Rogues, Vagrants, wanderers and stran<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and they were strangers to him, and by his warrant he must apprehend them although he confest that he did believe that they were honest men) and so said that they must go with him to the Ale-house that night, unlesse that they would pass t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir words to him to be forth comming the next morning; but they told him that they should not promise him any such thing, but they w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> free men or p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>soners, and if he had any <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to say to h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, they were there then, and as for <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m they <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>asion to passe away in the morning <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arly if they were <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>hed; so that if he had ought to ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen present, but as for his war<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> such people as his warrant <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> did h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ant concern them in the least, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Curtis</hi> to have pasted his word that they should be forth-coming in the morning, but he re<g ref="char:EOLhyphen"/>fused (here this wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed man would have numbred the Lords
+<pb n="23" facs="tcp:206444:12"/>Servants who had been at a meeting of the Lords people, among Rogues, Vagrants, and wanderers; but the servant is not greater then his Lord, for the captain of our salvation was numbred among transgressors) but this wicked man being confounded in himself (although much set on by <hi>Richard <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ham</hi> an envious persecutor of the Lords people) he went away, saying, he did believe they were honest men; yet neverthelesse the next day early in the morning, these men, <hi>Edward Ireland</hi> a Tithing man, and <hi>Richard Faraham</hi> gathered together in the street with some other, and <hi>Hannah Guier</hi> one of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords people, who had been there at the meeting then, and that night lay at a Friends house in <hi>South Perint,</hi> she being that morning going to <hi>Samuel Curtis</hi> his house to see friends there, and so to passe away to her outward being, which was but five miles from <hi>Sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h-periot</hi> at a place called East-<hi>Cokar,</hi> those wicked men being in the street (as men that hunt for blood) they took up <hi>Hannah Guier</hi> and brought her to <hi>Samuel <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> his house, and when they saw that the Lords Servants there were passed away (whose names were <hi>Jasper Bat, John Petman, John Collins, John A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en John Day</hi>) then <hi>Richard Farn<g ref="char:EOLhyphen"/>ham</hi> was in a wicked rage, and threatened the Tithing-man that it should cost him five pounds, because he had not the last night secured them, the Lords People, which had been there at a meeting, and met together to wait upon the Lord; then the Tithing-man got two men with him, <hi>viz Henry Gray</hi> a Bai<g ref="char:EOLhyphen"/>ly that goes about to arrest men, and one <hi>Gesting Guppy,</hi> and draged her along by the arms through dirt and water, and halled her over gates and stiles that were in their way as they carried her to a Town called <hi>Bemi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> about three miles from <hi>Periot,</hi> it being a very wet and rainy day, and that day at <hi>Bemi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> was a private Sessions, where sat <hi>Edward Butler</hi> of <hi>Romer</hi> house, and <hi>Edward C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieck</hi> of <hi>Gabr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> called Justices; before whom they brought <hi>Hannah Guier,</hi> where came the Priest <hi>Jere<g ref="char:EOLhyphen"/>miah Fren<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> also, and when they, called Justices, had examined <hi>Hannal Guier,</hi> and she having given them an account of her businesse at <hi>South-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> which was to come there to a meet<g ref="char:EOLhyphen"/>ing of the Lords people, coming to wait upon the Lord, and she had been at the meeting, and she was going to see her Friends at <hi>Samuel Curtis</hi> his house, and so to passe away to her
+<pb n="24" facs="tcp:206444:13"/>outward being, forthwith for which cause, they called Justi<g ref="char:EOLhyphen"/>ces, <hi>Edward Chu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and <hi>Edward Butler</hi> made her a passe, and sent her back to <hi>South-Periot</hi> again, and from thence to be sent home to <hi>Ea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ok<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> five miles from <hi>South-Periot,</hi> from Tith<g ref="char:EOLhyphen"/>ing to Tithing as a Vagrant and wandering person, not be<g ref="char:EOLhyphen"/>ing able to give any account of any worldly occasions for her travelling, as in her passe is set down; here by these men the Lords people are accused for wanderes, and called Vagrants for going five miles from their outward being to a meeting to wait upon the Lord.</p>
+            <p>Upon the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th day of the ninth moneth 1657. there was a meeting of the Lords people, to wait upon the Lord at the house of <hi>Samuel Curtis</hi> in <hi>South-Periot,</hi> after the meeting was ended, some friends being passed away, and many being be<g ref="char:EOLhyphen"/>hind in the house which were ready to passe away; <hi>Richard Farnham</hi> then being Constable, came into the house with a company with him, and also one <hi>John Lane</hi> a bloody man, who said we are a company of people not fit to live upon the earth, and the said <hi>Richard Farnham</hi> laid violent hands upon <hi>Nich<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odworth,</hi> a friend that was there of the meeting, and haled him out of the house, &amp; dragged him to his own house, where he kept him a prisoner; and then he came again to the house of <hi>Samuel Curtis</hi> the second time with his rude company, and exa<g ref="char:EOLhyphen"/>mined <hi>Robert G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le,</hi> another friend what his businesse was there that day, he answered, that he came there to the meeting of the Lords people) to wait upon the Lord, then <hi>Richard Farnham</hi> demanded of him a better account; then <hi>Robert Giles</hi> asked him whether that was not a sufficient account for him to come to the meeting to wait upon the Lord, then <hi>Richard Far<g ref="char:EOLhyphen"/>nam</hi> said that it was a sufficient account whereupon, he was at a stand, and yet neverthelesse presently after, with rage he laid hands on <hi>Robert Giles</hi> to hale him forth out of the house, then <hi>Samuel Curtis</hi> desired to know of <hi>Richard Farnham</hi> where he had a warrant for what he did, so to come into his house in such a manner and hale his friends out of his house? but he an<g ref="char:EOLhyphen"/>swered him he should not know whether he had a warrant or not, then <hi>Sam. Curtis</hi> told him he ought to shew his warrant for coming into his house in such a manner, but <hi>R. Farnham</hi> said he would not; then <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mas King</hi> one of the same Parish, whose
+<pb n="25" facs="tcp:206444:13"/>dwelling is in <hi>South-Periot,</hi> said it was but a reasonable thing for him to shew his warrant; Then <hi>Richard Farnham</hi> asked <hi>Thomas King</hi> whether he would resist him, who an<g ref="char:EOLhyphen"/>swered he would not resist him; then in his madnesse he laid his hands on ROBERT GILES and THOMAS KING both and haled them out of the house, and carried them to his own house, where the other Friend was, and set a guard upon them, and kept them prisoners for near an hour, then he came again the third time to SAMUEL CUR<g ref="char:EOLhyphen"/>TIS his house, the doors being shut, and never demanded to come into his house, but violently drew open his doors and came in, and ran up and down his house with his rude company after him through his chambers and other rooms; and then SAMUEL CURTIS demanded of him where he had a warrant for what he did, for doing such things in his house; Then <hi>Richard Farnham</hi> answered and said, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e tell thee that another time, and when he had hunted up and down his house as one that hunted for blood, as if he could not be satisfied soon enough, he passed away and went to his house again, and after a little time he called N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>CHO<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>AS Woo WORTH, and ROBERT GILES apart one at a time, and read an old warrant that he had got which did belong to a former Tithing man the year before, which Tithing man was out of his office, and the warrant was for the apprehending of Rogues, Vagrants, and strangers that could not give a good account of their Worldly busi<g ref="char:EOLhyphen"/>nesse, and with this old warrant he came to abuse and di<g ref="char:EOLhyphen"/>sturb the Lords people, who had met together to wait up<g ref="char:EOLhyphen"/>on the Lord, and then pretended he had a warrant to co<g ref="char:EOLhyphen"/>ver him in his wickednesse, but his covering is too narrow, it is seen thorow in this the day of the Lord, it will not cover him, for <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and all his Generation is seen, their coverings will hide them no longer; but at last, let them all three go again, having nothing to say to either of them, nor ought to accuse them of.</p>
+            <p>Upon the the twenty fourth day of the eighth moneth 1657. being the seventh day of the week, HUMPHERY SMITH came to <hi>South-Periot</hi> to the house of SAMUEL CURTIS
+<pb n="26" facs="tcp:206444:14"/>he being then riding towards <hi>Exmister</hi> in <hi>Devon</hi>-shire to a meeting there near the Town, at a place called <hi>Ʋ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hay,</hi> and S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>MU<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>L CU<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>IS rode with him the next day being the first day of the week, had there a peaceable meeting amongst many, in whom there is m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch desires after the li<g ref="char:EOLhyphen"/>ving truth of God; and the next morning being the se<g ref="char:EOLhyphen"/>cond day of the week, SAMUel CURTIS was to return to <hi>Chard</hi> Market to buy commodities that he wanted for his trade, he being a clothier, and being passed forth of the Town on his way towards, <hi>Chard</hi> and his friend <hi>Humphe<g ref="char:EOLhyphen"/>ry</hi> SMITH with him, there came a wicked man from <hi>Hauck-Church</hi> riding with much violence, and a Tithing-man behind him with a warrant from <hi>Thomas Bampfield</hi> of <hi>Polety<g ref="char:EOLhyphen"/>more</hi> house in <hi>Devon-sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re,</hi> to apprehend HUMPHERY SMITH, and any vagrant person wandering in his company, where<g ref="char:EOLhyphen"/>by they were both brought back to <hi>Exmister</hi> again, and car<g ref="char:EOLhyphen"/>ried to a place called <hi>Bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Ha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> (about six miles from <hi>South-Periot</hi>) where <hi>John Hodder</hi> Priest of <hi>Hauck-Church,</hi> &amp; <hi>Thomas Bampfield</hi> called a Justice came, who consulting together, <hi>T. Bampfield</hi> examined where they had been, they told him at a meeting of the Lords people to wait upon the Lord; then he demanded where they were going, and SAMUEL CURTIS told him he was going to <hi>Chard</hi> Market, and from thence to <hi>South Periot</hi> his outward dwelling place, and his friend HUMPHERY SMITH with him, yet neverlesse al<g ref="char:EOLhyphen"/>though he had not any thing to accuse them of, he com<g ref="char:EOLhyphen"/>manded the Constable to strip them both naked, and whipt them for vagrant persons, and then he would make each of them a passe, and send them home from Tithing to Tithing; Then SAMUEL CURTIS being a Clothier, and but seven miles from his outwad habitation, asked <hi>Thomas Bampfield,</hi> how, or by what law he could make him a Va<g ref="char:EOLhyphen"/>grant person, and so to whip him, he being a trads-man, and going on his way to <hi>Chard</hi> Market on purpose to buy things which he wanted in his trade, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Curtis</hi> being a man of estate; <hi>Bampfield</hi> called a Justice, said he would do it (<hi>viz</hi> have him whipt for a vagrant) and then he should take his remedy against him afterward; so they were both
+<pb n="27" facs="tcp:206444:14"/>whipt naked to the midle, &amp; in a close by the house where were many people, and some seeing it said, that if this were the liberty that they had so long fought for, they had fought for a liberty indeed, to be taken up on the high way going to market &amp; whipt, and so sent home with a pass for vagrants; saying also, if they do this already, what will they do next? SAMU<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>L CU<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>TIS being known therea<g ref="char:EOLhyphen"/>bouts, both to the man of the house and several others, the man of the house whose name is <hi>Robert Buridge</hi> who was much troubled to see such actions, which being done, one good book, and many good papers were taken from us, and most of them burnt by <hi>Thomas Bampfield,</hi> who com<g ref="char:EOLhyphen"/>manded the Constable to take them from us, and they took from <hi>Samuel Curtis</hi> several notes which were his ac<g ref="char:EOLhyphen"/>counts, but they gave him his accounts again, but many good papers which <hi>Thomas Bampfield</hi> had taken from them which were for spreading abroad of the truth, <hi>Thomas Bampfield,</hi> burnt in the fire, and then although one way did lead to the place of their abode, as he called it, yet he sent SAMUEL one way, and HUMPHERY another, with each of them a passe, and Officers from Tithing to Tith<g ref="char:EOLhyphen"/>ing, the place where they were whipped being six or seven miles from SAMU<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>L CURTIS outward dwelling house; the copie of his passe as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>Devon.</dateline>
+                        </opener>
+                        <p>
+                           <q>SAMUEL CURTIS of <hi>South-Periot</hi> in the County of <hi>Dorset</hi> Cloathier of a middle stature, black hair, aged about forty years, was taken vagrant, and wan<g ref="char:EOLhyphen"/>dering at <hi>Exm<gap reason="illegible: faint" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </hi> in the said County of <hi>Devon</hi> this present day being the 26th day of <hi>Octob.</hi> 1657 and was then, and there Lawfully whipped therefore, and he is appointed to be carried from Tithing to Tithing by the respective officers to <hi>South-Periot</hi> in the afore<g ref="char:EOLhyphen"/>said County of <hi>Dorset</hi> which is (as he saith) the place of his abode, and he is to go by <hi>Marshal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>-hay,</hi> and so to <hi>
+                                 <gap reason="illegible" resp="#keyers" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>ad<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>ndsor</hi> and is allotted till to morrow nine of the clock and no more, at his peril, given under my
+<pb n="28" facs="tcp:206444:15"/>hand and seal this 26th of <hi>October</hi> 1657. <hi>Thomas Bamp<g ref="char:EOLhyphen"/>field.</hi>
+                           </q>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This <hi>Bampfield</hi> was Speaker in a late Parliament.</p>
+            <p>PETER MABER, and GEORGE HARIS dwelling in <hi>Black<g ref="char:EOLhyphen"/>more</hi> in <hi>Dorset-shire,</hi> were both committed to prison by <hi>John Fitz-James,</hi> and <hi>Walter Foy</hi> called <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustices, for no other thing they had to charge them with, but for not putting off the hat before them at the fiting at the Crown in <hi>Sher<g ref="char:EOLhyphen"/>burn</hi> the twenty third day of the seventh moneth, 1658. as followeth.</p>
+            <p>They with some others, a little time before they were committed to prison, were at the town of <hi>Sherburn,</hi> where HUMPHERY SMITH a Servant of the Lord and Minister of Jesus Christ had a meeting, where they were unhumane<g ref="char:EOLhyphen"/>ly abused by a rude multitude, they not resisting any in the least, were dawbed with dirt and dung and the filth of the Town, and many great stones cast at them, some their heads broak, some thrown down on the ground, many hundreds compassing them about with great shouts and houps, following them into a house, they being not wil<g ref="char:EOLhyphen"/>ling to go forth, least there should have been more blood shed, tarried all night in the house; they like the <hi>Sodomites</hi> compassing the house about, laying wait at the bridge most part of that night.</p>
+            <p>
+               <hi>John Chaffen</hi> a Captain in <hi>Sherburn</hi> he hearing of the up<g ref="char:EOLhyphen"/>roar, and how the peace was broken (he not being at home that day) and one of his Sons very much abused, he got a warrant from <hi>John Fitz-James,</hi> and <hi>Walter Foy;</hi> then <hi>John Chaffen</hi> sent to them <hi>Peter Mabber</hi> and <hi>George Haris</hi> to come before them to testifie how they were abused, who being free born in the Nation, and being not willing to be murdered by consent, went but to lay the thing before them, for <hi>John Fitz-James</hi> told them he would execute justice upon the evil doers, but they told him that they came, not thither to have them punished, but did freely forgive them all as they then declared, yet because they did not put off their hats, they were sent to prison, and
+<pb n="29" facs="tcp:206444:15"/>they at liberty that abused them, and made the uproar.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>A Coppy of their Mittimus.</head>
+                        <opener>
+                           <dateline>Dorset.</dateline>
+                        </opener>
+                        <p>
+                           <q>WE send you herewith all the bodies of <hi>Peter Maber</hi> and <hi>George Haris,</hi> who were both required to put in sureties for the good behaviour and appearance at the next general Sessions of the peace for this county, to answer divers and sundry misdemeanours committed by them in our presence, and they refusing so to do, these are therefore to require you to take them into your safe custody, so that they may answer the premi<g ref="char:EOLhyphen"/>ses at the Sessions aforesaid.</q>
+                        </p>
+                        <closer>
+                           <dateline>Given under our hands and Seals <date>the twenty third day of <hi>Sep.</hi> 1657.</date>
+                           </dateline>
+                           <signed>John Fitz-James, Walter Foy.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The seventh day of the eighth moneth 1657. they appeared before ten or eleven of them called Justices at the general Sessions at <hi>Bride-port;</hi> when they were first cal<g ref="char:EOLhyphen"/>ed forth to the bar, they caused the cryer to say, that this Court did charge and commanded all manner of persons to be uncovered in the face of the Court, they standing as before, because they did not put off their hats, they called Justices, said that they were not subject to authority, PETER MABER said that they were subject to the Law, and that they were bound over to answer the Law without a Law; they said, if they would not submit to the Court, they would proceed against them as contemners of Authority; <hi>Peter Maber</hi> said, to the Law they would be subject, but to their will they could not; then they read an indictment that they had framed against them; and were judges &amp; witnesses themselves, &amp; they bid them hold their peace, &amp; asked them whether they were gilty when they had broke no Law, then they said, they did know no Law that they had broke, &amp; how could they be guilty? they asked a<g ref="char:EOLhyphen"/>gain by whom they would be tryed; PETER MABER said, they had no need to be tryed, except they had broken the law; then they desired the statute might be read that
+<pb n="30" facs="tcp:206444:16"/>they had broke, they said they had a commission from the Lord-Protector; then they read something to them, but to fine them for not putting off the hat was not in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, then they fined GEORGE HARIS ten pound, and PETER MABER five pound.</p>
+            <p>But before they were all agreed upon it, there was much whispering one to another, and to the Recorder, with much lightnesse and laughter, one of them whose name is <hi>Francis <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is</hi> kept his hand before his mouth, that his laughter might not be seen, and <hi>Roger Clavi,</hi> one of them called Justices, cryed often give them the oath (as if one snare at a time were not enough) then they read the udge<g ref="char:EOLhyphen"/>ment that they had passed on them, &amp; read their names in a confused manner, calling them by other nams; then they which before laughed at them, laughed one at another to hear them called out of their names, and so made sport of the innocent; their <hi>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttimu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was made by a Quartermaster of the late Kings army, who is often imployed to be their Clerk, and they who ever have been faithful to the States, having much arrears behind, have this for their re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>
+               <hi>Dewens Morry</hi> being moved to go to the publick meeting in the Parish of Haw Church, in the County of <hi>Dorse,</hi> upon the 2 th day of the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th mouth 65<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Where <hi>John Hodder</hi> Parish teacher, prayed that they might walk holy, as Christ walked, with more words to the like purpose; when he had ended his exercise, shee was moved to ask him whether he did believe that it was possible to be attained to what he had prayed for: at the first he have her no answer as shee remembers; then shee asked him again, and he answered, I might: then sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e mention d that he had prayed, that they might walk as Christ had walked holy; to which he an<g ref="char:EOLhyphen"/>swered, That they had a promise for it, he granted that they might so walk in a proportion: shee said that Christs wal was without sin, Christs walk was a perfect walk, and that he had owned perfection: Further shee saith, shee ha<g ref="char:EOLhyphen"/>ving
+<pb n="31" facs="tcp:206444:16"/>received a message from the Lord of Hosts for to de<g ref="char:EOLhyphen"/>clare among them, as shee was declaring of it, the said <hi>John Hodder</hi> was speaking of Officers, and before that shee was gone out of the Publick House, he said that he was sorry that the Officers had no more care; shee went away to a friends House, where shee had lodged the night before, where shee had not been long before; one of the Officers came thither, and questioned <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er concerning her speaking in the Publick, and told her that shee must answer it; so he went away again, after dinner he came again, and brought the Act with him, by vertue of which he command<g ref="char:EOLhyphen"/>ed her to go with him, which command she obeyed; so he would have her to go into the said <hi>John Hodders</hi> House, which she did; but <hi>John Hodder</hi> was much inraged for it, and said that he had nothing to say to her, and that he was not to receive such into his House; and gave the Officer a charge of her, and bid her go out of his doors; so shee was kept Prisoner part of that day, at a House where there was Bear to be sold, afterwards she was let go to the friends House again untill the next morning, then shee was com<g ref="char:EOLhyphen"/>pelled for to go about some 6. miles, to one of them called Justices, where the said <hi>John Hodder</hi> came for to accuse her, where he complained that shee had much disturbed his Congregation, so shee demanded of him what evill shee had done? he told her that a Woman must not speak in the Church; shee denied it to be the voyce of the Woman that spake, shee said it was the voyce of the Spirit of God that spake; shee asked him what Law <hi>Paul</hi> had for a Woman if shee did spake in the Church? he told her that <hi>Paul</hi> had no Law, but that <hi>Paul</hi> did wish that he had had a Law: so after many more words had past both with him, and him called Justice, it was ordered that she should go back again to Haw-Church that night, and there shee was to be whipt untill the bloud did come, which thing was done the next morn<g ref="char:EOLhyphen"/>ing early, shee received many cruel bloudy stripes, and so was sent home with a Pass from Tithing to Tithing. But the bloud of her and many more, will not satisfie the Priests.</p>
+            <pb n="32" facs="tcp:206444:17"/>
+            <p> Behold the wicked shall be as chaffe, and the Enemies of the Lamb as dust, for ever a perpetual shame shall cover them all for ever, and the Lambs shall spring up and flourish in the power of the Fathers love, and the devourer shall cease, and the faithfull shall multiply, and righteous<g ref="char:EOLhyphen"/>nesse shall flourish for ever, and a bed of torment is prepared for the persecu<g ref="char:EOLhyphen"/>tors, and all the wicked whose day is come.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:206444:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
